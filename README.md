@@ -1,11 +1,11 @@
-# Chip Breier, PE
+# J. Breier, PE
 
 **Ocean engineer · Autonomous systems · Field robotics**
 
 <p align="center">
   <img src="clio.jpg" alt="Clio AUV secured on deck at sunset before a dive" width="420">
   <br>
-  <em>Clio, a 6,000 m autonomous underwater vehicle I led from concept to sea, on deck before a dive.</em>
+  <em>Clio, a 6,000 m autonomous underwater vehicle I led from concept to sea, on deck before a dive (photo credit: M. Saito).</em>
 </p>
 
 I design, build, and field autonomous marine vehicles and the hardware, electronics, and perception systems that let them work in the real ocean. I've spent more than 20 years taking systems from concept to sea: mechanical and electrical design, prototyping, test, and deployment on expeditions in the Atlantic, Pacific, and Gulf of Mexico.
@@ -30,13 +30,13 @@ Currently an **Associate Scientist with Tenure at Woods Hole Oceanographic Insti
 - **Licensed Professional Engineer**: Texas and Massachusetts
 - Environmental chemistry background, including reaction path modeling, with peer-reviewed publications
 
-### Featured projects
+// ### Featured projects
 
-| Project | What it is |
-|---|---|
-| [**asv-perception**](https://github.com/USERNAME/asv-perception) | Hands-on perception and sensor fusion for autonomous surface navigation, tested on a BlueRobotics BlueBoat and custom RC hulls |
-| [**pressure-housing**](https://github.com/USERNAME/pressure-housing) | Subsea electronics enclosure: CAD, FEA, thermal design, and custom PCB, documented with a formal design-review and release process |
-| [**PROJECT-3**](https://github.com/USERNAME/PROJECT-3) | *One line on what it does and why it matters* |
+// | Project | What it is |
+// |---|---|
+// | [**asv-perception**](https://github.com/USERNAME/asv-perception) | Hands-on perception and sensor fusion for autonomous surface navigation, tested on a BlueRobotics BlueBoat and custom RC hulls |
+// | [**pressure-housing**](https://github.com/USERNAME/pressure-housing) | Subsea electronics enclosure: CAD, FEA, thermal design, and custom PCB, documented with a formal design-review and release process |
+// | [**PROJECT-3**](https://github.com/USERNAME/PROJECT-3) | *One line on what it does and why it matters* |
 
 ### Tools I use
 
@@ -45,8 +45,8 @@ Currently an **Associate Scientist with Tenure at Woods Hole Oceanographic Insti
 
 ### Publications
 
-Selected papers are on [Google Scholar](https://scholar.google.com/LINK). Recent work includes a co-authored preprint on the value of ocean sample return and lab analysis (EGUsphere, 2026).
+Selected papers are on [Google Scholar](https://scholar.google.com/citations?user=ny6F3vQAAAAJ&hl=en). Recent work includes a co-authored preprint on the value of ocean sample return and lab analysis (EGUsphere, 2026).
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/LINK) · [WHOI profile](https://www.whoi.edu/LINK) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/john-breier/) · [WHOI profile](https://www.whoi.edu/cms/files/breier-cv_26283.pdf) · [Email](mailto:jbreier@whoi.edu)
