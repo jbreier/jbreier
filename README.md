@@ -38,7 +38,7 @@ Currently an **Associate Scientist with Tenure at Woods Hole Oceanographic Insti
 | [**asv-perception**](https://github.com/USERNAME/asv-perception) | Hands-on perception and sensor fusion for autonomous surface navigation, tested on a BlueRobotics BlueBoat and custom RC hulls |
 | [**pressure-housing**](https://github.com/USERNAME/pressure-housing) | Subsea electronics enclosure: CAD, FEA, thermal design, and custom PCB, documented with a formal design-review and release process |
 | [**PROJECT-3**](https://github.com/USERNAME/PROJECT-3) | *One line on what it does and why it matters* |
--->:
+-->
 
 ### Tools I use
 
