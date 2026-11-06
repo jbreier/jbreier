@@ -42,7 +42,7 @@ Currently an **Associate Scientist with Tenure at Woods Hole Oceanographic Insti
 
 ### Tools I use
 
-`SolidWorks / CAD` · `FEA` · `KiCad / PCB design` · `Python` · `ROS` · `OpenCV` · `ArduPilot` · `Git`
+`SolidWorks / CAD` · `KiCad / PCB design` · `Python` · `C++` · `ROS` · `OpenCV`
 <!-- Edit this list to match what you actually use day to day. -->
 
 ### Publications
